@@ -1,5 +1,4 @@
-# LodeRunner
-Application JavaScript : Jeu Lode Runner
+# Jeu du Lode Runner
 
 <h1>But du jeu</h1>
 Le but du jeu est de ramasser les six lingots d’or situés sur des passerelles tout en évitant les gardes qui 
@@ -10,6 +9,10 @@ Lode Runner a la possibilité de se déplacer horizontalement sur des passerelle
 Il peut également se déplacer verticalement sur des échelles. Finalement, il a la possibilité de creuser des trous temporaires dans la passerelle. 
 Lode Runner utilise ces trous pour descendre plus rapidement et/ou pour piéger les gardes pendant un certain laps de temps.
 
+
+#
+![image](https://user-images.githubusercontent.com/48655888/174716430-0f069215-c285-436f-8482-d36793d9067b.png)
+#
 
 <h1>Les déplacements du Lode Runner</h1> 
 
